@@ -1,0 +1,5 @@
+
+pages/home.js
+utils/loadExternal.js
+components/swiperjs/swiper-init.js
+components/marquee/marquee.js
