@@ -3,3 +3,6 @@ pages/home.js
 utils/loadExternal.js
 components/swiperjs/swiper-init.js
 components/marquee/marquee.js
+utils/deviceDetect.js
+pages/about.js
+pages/blog-single.js
